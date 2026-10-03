@@ -20,7 +20,7 @@ The button follows the game's language: Free Workshop · Taller libre · 自由�
 
 ## Download
 
-**[Latest release](../../releases/latest)** · also on [Nexus Mods](https://www.nexusmods.com/dressmaker).
+**[Latest release](../../releases/latest)** · also on [Nexus Mods](https://www.nexusmods.com/dressmaker/mods/215).
 
 ## Install
 
