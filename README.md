@@ -31,7 +31,7 @@ The button follows the game's language: Free Workshop · Taller libre · 自由�
 Works with any game language and alongside other mods. To uninstall, delete the `TallerLibre`
 folder; your free-mode save stays in `player9.json` in case you come back.
 
-Tested on build **410.44874e6** (24/09/2026) with BepInEx 5.4.23.5 x64. Found a bug? Open an
+Tested on builds **443.cf23fc7** (15/10/2026) and 410.44874e6 with BepInEx 5.4.23.5 x64. Found a bug? Open an
 [issue](../../issues) with a screenshot.
 
 ## Credits
